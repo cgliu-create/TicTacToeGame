@@ -1,0 +1,12 @@
+/Users/chrisliu2438/Desktop/CSharp/TicTacToeCS/TTT/TTT/obj/Debug/netcoreapp3.1/TTT.csprojAssemblyReference.cache
+/Users/chrisliu2438/Desktop/CSharp/TicTacToeCS/TTT/TTT/obj/Debug/netcoreapp3.1/TTT.csproj.CoreCompileInputs.cache
+/Users/chrisliu2438/Desktop/CSharp/TicTacToeCS/TTT/TTT/obj/Debug/netcoreapp3.1/TTT.AssemblyInfoInputs.cache
+/Users/chrisliu2438/Desktop/CSharp/TicTacToeCS/TTT/TTT/obj/Debug/netcoreapp3.1/TTT.AssemblyInfo.cs
+/Users/chrisliu2438/Desktop/CSharp/TicTacToeCS/TTT/TTT/bin/Debug/netcoreapp3.1/TTT.deps.json
+/Users/chrisliu2438/Desktop/CSharp/TicTacToeCS/TTT/TTT/bin/Debug/netcoreapp3.1/TTT.runtimeconfig.json
+/Users/chrisliu2438/Desktop/CSharp/TicTacToeCS/TTT/TTT/bin/Debug/netcoreapp3.1/TTT.runtimeconfig.dev.json
+/Users/chrisliu2438/Desktop/CSharp/TicTacToeCS/TTT/TTT/bin/Debug/netcoreapp3.1/TTT.dll
+/Users/chrisliu2438/Desktop/CSharp/TicTacToeCS/TTT/TTT/bin/Debug/netcoreapp3.1/TTT.pdb
+/Users/chrisliu2438/Desktop/CSharp/TicTacToeCS/TTT/TTT/obj/Debug/netcoreapp3.1/TTT.dll
+/Users/chrisliu2438/Desktop/CSharp/TicTacToeCS/TTT/TTT/obj/Debug/netcoreapp3.1/TTT.pdb
+/Users/chrisliu2438/Desktop/CSharp/TicTacToeCS/TTT/TTT/obj/Debug/netcoreapp3.1/TTT.genruntimeconfig.cache

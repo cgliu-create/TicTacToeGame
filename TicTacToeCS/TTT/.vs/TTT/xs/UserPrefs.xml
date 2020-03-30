@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{136A5C0B-3B1B-4F31-811E-7D1D64C0EB76}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TTT/Game.cs">
+    <Files>
+      <File FileName="TTT/Program.cs" Line="17" Column="13" />
+      <File FileName="TTT/Game.cs" Line="99" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TTT" expanded="True">
+            <Node name="TTT" expanded="True">
+              <Node name="Game.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TTT PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
